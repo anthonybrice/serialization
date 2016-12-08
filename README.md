@@ -2,14 +2,14 @@
 
 Copyright © 2016 CJ Affiliate under the terms of the MIT License. See "LICENSE" for details.
 
-This library is binary-compatible with Scala versions 2.11.x.
+This library is binary-compatible with Scala versions 2.12.x.
 
 For Maven projects:
 
 ```xml
 <dependency>
     <groupId>com.cj</groupId>
-    <artifactId>serialization</artifactId>
+    <artifactId>serialization_2.12</artifactId>
     <version>0.2-SNAPSHOT</version>
 </dependency>
 ```
